@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+I'm a Developer/Computer-Engineering student trying to learn different technologies.
+📫 How to reach me: omrfrkblgn21@gmail.com
 
 <!--
 **OmerBilgin21/OmerBilgin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
