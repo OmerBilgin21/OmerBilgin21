@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm a Developer/Computer-Engineering student trying to learn different technologies.
+I'm a Front-End Developer/Computer Engineering student trying to learn different technologies.
 
 📫 How to reach me: omrfrkblgn21@gmail.com
 
