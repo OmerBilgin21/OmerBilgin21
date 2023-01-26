@@ -1,8 +1,8 @@
 ### Hi there 👋 
 I'm a Full stack developer.
 
-📫 How to reach me: omrfrkblgn21@gmail.com
-- 🔭 I’m currently working on Maon GmbH
+ * 📫 How to reach me: omrfrkblgn21@gmail.com
+ * 🔭 I’m currently working on Maon GmbH
 
 <!--
 **OmerBilgin21/OmerBilgin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
