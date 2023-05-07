@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm a Full stack developer.
 
- * 📫 How to reach me: omrfrkblgn21@gmail.com
+ * 📫 How to reach me: oemerbilgin@proton.me
  * 🔭 I’m currently working at Maon GmbH
 
 <!--
