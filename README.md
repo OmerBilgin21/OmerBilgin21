@@ -2,7 +2,7 @@
 I'm a Full stack developer.
 
  * 📫 How to reach me: oemerbilgin@proton.me
- * 🔭 I’m currently working at Maon GmbH
+ * 🔭 I’m currently working at turfcoach UG
 
 <!--
 **OmerBilgin21/OmerBilgin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
