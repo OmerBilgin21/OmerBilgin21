@@ -1,7 +1,10 @@
 ### Hi there 👋 
 I'm a Full stack developer.
 
- * 📫 How to reach me: oemerbilgin@proton.me
+I'm currently looking for ideas to create a useful plugin for Neovim.  
+If you have an idea but don't have the time to develop it, you know where to find me.
+
+ * 📫 How to reach me: oemerbilgin@proton.me or [my LinkedIn](https://www.linkedin.com/in/omerbilgin21/)
 
 <!--
 **OmerBilgin21/OmerBilgin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
