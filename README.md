@@ -2,7 +2,7 @@
 I'm a Full stack developer.
 
 I'm currently looking for ideas to create a useful plugin for Neovim.  
-If you have an idea but don't have the time to develop it, you know where to find me.
+If you have an idea but don't have the time to develop it, feel free to reach out to me.
 
  * 📫 How to reach me: oemerbilgin@proton.me or [my LinkedIn](https://www.linkedin.com/in/omerbilgin21/)
 
